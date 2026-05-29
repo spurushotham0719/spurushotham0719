@@ -174,7 +174,7 @@ I'm **actively looking for Backend / Java / Spring Boot engineering roles**. If 
 |---|---|
 | 📧 **Email** | [purushothams0719@gmail.com](mailto:purushothams0719@gmail.com) |
 | 📱 **Phone** | +91 9606636407 |
-| 💼 **LinkedIn** | [linkedin-purushothama-s](https://www.linkedin.com/in/purushothama-s-730633240/) |
+| 💼 **LinkedIn** | [https://www.linkedin.com/in/purushothama-s-730633240/] |
 | 🧩 **LeetCode** | [spurushotham383](https://leetcode.com/u/spurushotham383/) |
 
 ---
