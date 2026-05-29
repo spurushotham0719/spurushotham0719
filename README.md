@@ -13,7 +13,7 @@
   <a href="mailto:purushothams0719@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-purushothams0719@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+  <a href="https://www.linkedin.com/in/purushothama-s-730633240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/spurushotham383/" target="_blank">
@@ -174,7 +174,7 @@ I'm **actively looking for Backend / Java / Spring Boot engineering roles**. If 
 |---|---|
 | 📧 **Email** | [purushothams0719@gmail.com](mailto:purushothams0719@gmail.com) |
 | 📱 **Phone** | +91 9606636407 |
-| 💼 **LinkedIn** | [https://www.linkedin.com/in/purushothama-s-730633240?utm_source=share_via&utm_content=profile&utm_medium=member_ios)] |
+| 💼 **LinkedIn** | [linkedin-purushothama-s](https://www.linkedin.com/in/purushothama-s-730633240/) |
 | 🧩 **LeetCode** | [spurushotham383](https://leetcode.com/u/spurushotham383/) |
 
 ---
